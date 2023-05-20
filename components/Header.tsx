@@ -7,8 +7,8 @@ export default function Header() {
       <Link href="/" className="flex space-x-3">
         <Image
           alt="header text"
-          src="/writingIcon.png"
-          className="sm:w-12 sm:h-12 w-8 h-8"
+          src="/luckyzero-modified.svg"
+          className="m:w-12 m:h-12 w-16 h-16"
           width={32}
           height={32}
         />
@@ -17,7 +17,7 @@ export default function Header() {
         </h1>
       </Link>
       <a
-        href="https://vercel.com/templates/next.js/twitter-bio"
+        href="https://vercel.com/templates/next.js/"
         target="_blank"
         rel="noreferrer"
       >
