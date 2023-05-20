@@ -89,7 +89,7 @@ const Home: NextPage = () => {
           <p>Star on GitHub</p>
         </a>
         <h1 className="sm:text-6xl text-4xl max-w-[708px] font-bold text-slate-900">
-          generate bio for your profiles
+          remix your social profile bio
         </h1>
         <p className="text-slate-500 mt-5">0 bios generated so far.</p>
         <div className="max-w-xl w-full">
