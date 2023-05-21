@@ -7,26 +7,26 @@ export default function Header() {
       <Link href="/" className="flex space-x-3">
         <Image
           alt="header text"
-          src="/luckyzero-modified.svg"
+          src="/pd-logo-black.svg"
           className="m:w-12 m:h-12 w-16 h-16"
           width={32}
           height={32}
         />
         <h1 className="sm:text-4xl text-2xl font-bold ml-2 tracking-tight">
-          bioGen
+          bio-generatoor
         </h1>
       </Link>
       <a
-        href="https://vercel.com/templates/next.js/"
+        href="https://searchone.dev"
         target="_blank"
         rel="noreferrer"
       >
         <Image
           alt="Vercel Icon"
-          src="/vercelLogo.png"
-          className="sm:w-8 sm:h-[27px] w-8 h-[28px]"
+          src="/luckyzero-modified.svg"
+          className="m:w-12 m:h-12 w-16 h-16"
           width={32}
-          height={28}
+          height={32}
         />
       </a>
     </header>

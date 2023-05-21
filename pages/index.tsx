@@ -73,7 +73,7 @@ const Home: NextPage = () => {
   return (
     <div className="flex max-w-5xl mx-auto flex-col items-center justify-center py-2 min-h-screen">
       <Head>
-        <title>biogen: remix ur social profile bio</title>
+        <title>bio generatoor: remix ur social profile bio</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -91,7 +91,7 @@ const Home: NextPage = () => {
         <h1 className="sm:text-6xl text-4xl max-w-[708px] font-bold text-slate-900">
           remix ur social profile bio
         </h1>
-        <p className="text-slate-500 mt-5">spruce up ur linkedin / twitter / fb bio.</p>
+        <p className="text-slate-500 mt-5">professional for linkedin, casual for twitter, funny for tiktok, etc</p>
         <div className="max-w-xl w-full">
           <div className="flex mt-10 items-center space-x-3">
             <Image
